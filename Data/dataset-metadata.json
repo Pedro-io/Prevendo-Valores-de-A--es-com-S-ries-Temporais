@@ -1,0 +1,43 @@
+{
+  "id": "caiquecassemiro/eletrobras-base-historica",
+  "id_no": 1358698,
+  "datasetSlugNullable": "eletrobras-base-historica",
+  "ownerUserNullable": "caiquecassemiro",
+  "usabilityRatingNullable": 0.9411764705882353,
+  "titleNullable": "Eletrobras Base Historica",
+  "subtitleNullable": "Base hist\u00f3rica do ativo ELET3 negociado na B3",
+  "descriptionNullable": "### Context\n\nA Eletrobras (Centrais El\u00e9tricas Brasileiras S.A.) \u00e9 uma sociedade de economia mista e de capital aberto sob controle acion\u00e1rio do Governo Federal brasileiro e atua como uma holding, dividida em gera\u00e7\u00e3o, transmiss\u00e3o e distribui\u00e7\u00e3o, criada em 1962 para coordenar todas as empresas do setor el\u00e9trico.\n\n\n### Content\n\nEste dataset cont\u00e9m a base hist\u00f3rica dos valores das a\u00e7\u00f5es da Eletrobr\u00e1s.\nOs dados v\u00e3o de : 17/07/2006 ~ 20/05/2021",
+  "datasetId": 1358698,
+  "datasetSlug": "eletrobras-base-historica",
+  "hasDatasetSlug": true,
+  "ownerUser": "caiquecassemiro",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.9411764705882353,
+  "hasUsabilityRating": true,
+  "totalViews": 1871,
+  "totalVotes": 4,
+  "totalDownloads": 138,
+  "title": "Eletrobras Base Historica",
+  "hasTitle": true,
+  "subtitle": "Base hist\u00f3rica do ativo ELET3 negociado na B3",
+  "hasSubtitle": true,
+  "description": "### Context\n\nA Eletrobras (Centrais El\u00e9tricas Brasileiras S.A.) \u00e9 uma sociedade de economia mista e de capital aberto sob controle acion\u00e1rio do Governo Federal brasileiro e atua como uma holding, dividida em gera\u00e7\u00e3o, transmiss\u00e3o e distribui\u00e7\u00e3o, criada em 1962 para coordenar todas as empresas do setor el\u00e9trico.\n\n\n### Content\n\nEste dataset cont\u00e9m a base hist\u00f3rica dos valores das a\u00e7\u00f5es da Eletrobr\u00e1s.\nOs dados v\u00e3o de : 17/07/2006 ~ 20/05/2021",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "brazil",
+    "finance",
+    "banking",
+    "svm",
+    "tabular"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "CC0-1.0",
+      "name": "CC0-1.0",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
